@@ -8,6 +8,8 @@ def greet():
     print(" x - номер строки  ")
     print(" y - номер столбца ")
 
+
+
 def show():
     print()
     print("    | 0 | 1 | 2 | ")
