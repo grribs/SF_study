@@ -1,0 +1,17 @@
+# This is a sample Python script.
+
+# Press Shift+F10 to execute it or replace it with your code.
+# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
+
+
+# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+
+
+a = list(map(int, input('Введите число \n')))
+
+print(a[0] % 2 == 0)
+
+
+
+# print('2' in 'a[0]')
+
